@@ -1,0 +1,1 @@
+Who Texted Me? is a project in which I analyzed my own text messages. In the Jupyter Notebook, I walk through how I created a bar graph visualizing the people I texted the most, a racing bar chart animating the people I texted the most over time, and a simple decision tree model predicting text recipients.
